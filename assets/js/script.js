@@ -133,8 +133,3 @@ function actualizarGasto(posicion){
     // Limpiar el formulario
     limpiar();
 }
-//Requerimientos
-//Alerta para los valores de gastos mayores o iguales a USD 150 -> hecho
-//Agregar campo para descripcion del gasto -> hecho
-//Agregar boton y funcion de modificar la info de nombre y valor del gasto
-// y que cuando se encuentre en ese modo el boton agregar gasto cambie su titulo a "actualizar"
